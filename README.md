@@ -94,8 +94,9 @@
   </iframe>
 </div>
 <h2> DIV VIDEO </h2>
-<video controls autoplay name="media" width="120" height="100">
-        <source src="http://localhost:63342/Activity%2043%20research%20html/Jen.mp4?_ijt=1nqcv5ffluv7a1kl1gk8g60nlt" type="video/mp4">
+
+https://github.com/user-attachments/assets/f19ae29e-1214-48f1-be8e-fc72cbee5b42
+
 <H2> DIV YOUTUBE </H2>
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/sZEhMUsyaN0" title="Taylor Swift Greatest Hits Full Album 2023 2024  Taylor Swift Best Songs Playlist 2023 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2> DIV DRAG AND DROP</h2>
